@@ -1,0 +1,25 @@
+{
+    "name": "Randy Craig",
+    "age": 32,
+    "address": {
+        "street": "Bowman Trail",
+        "city": "Burtonview",
+        "state": "Arizona",
+        "zip": "60745"
+    },
+    "contact": {
+        "phone": "(422)621-2302x811",
+        "servicePhone": "800627426"
+    },
+    "birthday": "1993-16-12",
+    "ip": "73.140.187.67",
+    "foo": "bar",
+    "profile": {
+        "about": "City enough speak best. Produce catch find trip despite child above common.\nStrategy continue position visit tough situation. Can bar hit pattern set candidate executive.\nTalk anything hour special.",
+        "bio": "Hard heavy because entire pull whom. Watch production when.\nAhead shoulder result another allow main. Daughter hot media what write control."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
