@@ -1,0 +1,25 @@
+{
+    "name": "Victoria Ward",
+    "age": 101,
+    "address": {
+        "street": "Nicholas Via",
+        "city": "Melvinside",
+        "state": "Iowa",
+        "zip": "93925"
+    },
+    "contact": {
+        "phone": "001-962-571-5881x23083",
+        "servicePhone": "800038415"
+    },
+    "birthday": "1924-28-08",
+    "ip": "42.91.167.50",
+    "foo": "bar",
+    "profile": {
+        "about": "Skin adult particularly clearly room quite chair.\nGame miss suggest admit. Young machine daughter occur.",
+        "bio": "Opportunity dream memory modern. Who put animal take.\nCrime quality base so fine nation against. Necessary she knowledge usually ok way family."
+    },
+    "currency": [
+        "GBP",
+        "Pound sterling"
+    ]
+}
