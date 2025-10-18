@@ -1,0 +1,25 @@
+{
+    "name": "Karen Johnson",
+    "age": 75,
+    "address": {
+        "street": "Anderson Crescent",
+        "city": "Lake Jasonton",
+        "state": "Wyoming",
+        "zip": "36836"
+    },
+    "contact": {
+        "phone": "769-614-3907x176",
+        "servicePhone": "800629346"
+    },
+    "birthday": "1950-22-08",
+    "ip": "73.11.57.238",
+    "foo": "bar",
+    "profile": {
+        "about": "Kind cost president tree grow.\nSure not there admit news. Recent lot my animal start somebody serious.",
+        "bio": "Operation check free. Education fall beat report special sense religious learn. Too feel garden prevent available mission onto."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}
