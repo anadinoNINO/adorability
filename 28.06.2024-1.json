@@ -1,0 +1,25 @@
+{
+    "name": "Debra Acosta",
+    "age": 98,
+    "address": {
+        "street": "Jones Roads",
+        "city": "North Toddmouth",
+        "state": "West Virginia",
+        "zip": "24985"
+    },
+    "contact": {
+        "phone": "+1-919-638-5600",
+        "servicePhone": "800699771"
+    },
+    "birthday": "1927-27-05",
+    "ip": "222.140.204.189",
+    "foo": "bar",
+    "profile": {
+        "about": "Western visit nothing magazine south. Skin relationship media thought may. Painting hotel including teacher carry.",
+        "bio": "Present see most drive program see create. Wonder beat approach such. Describe magazine within back scene. Poor which voice big long."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
