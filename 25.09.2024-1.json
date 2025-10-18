@@ -1,0 +1,25 @@
+{
+    "name": "George Allen",
+    "age": 57,
+    "address": {
+        "street": "Webb Cape",
+        "city": "Port Linda",
+        "state": "Arkansas",
+        "zip": "12284"
+    },
+    "contact": {
+        "phone": "+1-982-649-3352x097",
+        "servicePhone": "800081751"
+    },
+    "birthday": "1968-26-03",
+    "ip": "89.68.90.42",
+    "foo": "bar",
+    "profile": {
+        "about": "Knowledge letter dog stand whole soldier. Threat wish production heart executive talk. Hour mind lawyer argue of several.",
+        "bio": "Name evening close fish remain per would. Democratic great class central.\nStart west clearly establish worry project interesting. Garden model better fill must beautiful."
+    },
+    "currency": [
+        "KWD",
+        "Kuwaiti dinar"
+    ]
+}
