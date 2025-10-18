@@ -1,0 +1,25 @@
+{
+    "name": "Joanna Taylor",
+    "age": 53,
+    "address": {
+        "street": "Jason Green",
+        "city": "North Julia",
+        "state": "Alabama",
+        "zip": "70563"
+    },
+    "contact": {
+        "phone": "(656)779-7822",
+        "servicePhone": "800592767"
+    },
+    "birthday": "1972-13-03",
+    "ip": "91.110.84.112",
+    "foo": "bar",
+    "profile": {
+        "about": "According newspaper anyone reflect recognize. Become along measure. Up professor dream of.\nOur into nothing owner respond better. Region year to responsibility since.\nForward book career somebody.",
+        "bio": "Finally behavior behind boy reach.\nSuccessful born task reflect suggest too. Standard nature skin list lose past."
+    },
+    "currency": [
+        "THB",
+        "Thai baht"
+    ]
+}
