@@ -1,0 +1,25 @@
+{
+    "name": "Ashley Pineda MD",
+    "age": 37,
+    "address": {
+        "street": "Nancy Manor",
+        "city": "New Howard",
+        "state": "Utah",
+        "zip": "50915"
+    },
+    "contact": {
+        "phone": "293-963-8555",
+        "servicePhone": "800846171"
+    },
+    "birthday": "1988-03-08",
+    "ip": "222.115.211.77",
+    "foo": "bar",
+    "profile": {
+        "about": "The fine school wear community owner. Seven pretty difficult. Well should sister country leg less develop.",
+        "bio": "First name cover probably religious course. Which ever political open moment large beat."
+    },
+    "currency": [
+        "SHP",
+        "Saint Helena pound"
+    ]
+}
