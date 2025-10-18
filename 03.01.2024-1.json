@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Jackson",
+    "age": 43,
+    "address": {
+        "street": "Ellis Crossroad",
+        "city": "Denisechester",
+        "state": "California",
+        "zip": "30431"
+    },
+    "contact": {
+        "phone": "4663273546",
+        "servicePhone": "800881602"
+    },
+    "birthday": "1982-20-05",
+    "ip": "105.7.228.221",
+    "foo": "bar",
+    "profile": {
+        "about": "Theory reflect one join machine one threat until. Source they today story serve. Point federal camera it yourself.\nBelieve exist draw then necessary across. Store there book would.",
+        "bio": "Picture network leader truth maintain represent. Education service short human explain face institution."
+    },
+    "currency": [
+        "BYR",
+        "Belarusian ruble"
+    ]
+}
