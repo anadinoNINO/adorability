@@ -1,0 +1,25 @@
+{
+    "name": "Sarah Gibson",
+    "age": 68,
+    "address": {
+        "street": "Victoria Heights",
+        "city": "Albertfurt",
+        "state": "Maryland",
+        "zip": "04843"
+    },
+    "contact": {
+        "phone": "001-265-968-9292",
+        "servicePhone": "800772398"
+    },
+    "birthday": "1957-13-03",
+    "ip": "102.13.160.86",
+    "foo": "bar",
+    "profile": {
+        "about": "Well toward ask nation authority former when. Close director response course himself live carry.",
+        "bio": "Environment to arrive society ready. Lot policy occur later rich animal media.\nShoulder teach in. Purpose piece need service year."
+    },
+    "currency": [
+        "HNL",
+        "Honduran lempira"
+    ]
+}
