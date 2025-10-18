@@ -1,0 +1,25 @@
+{
+    "name": "Lindsay Smith",
+    "age": 0,
+    "address": {
+        "street": "Hoffman Orchard",
+        "city": "West Carrie",
+        "state": "Colorado",
+        "zip": "11194"
+    },
+    "contact": {
+        "phone": "001-569-682-1855x71653",
+        "servicePhone": "800366896"
+    },
+    "birthday": "2025-28-03",
+    "ip": "97.85.76.170",
+    "foo": "bar",
+    "profile": {
+        "about": "Network record visit forget ball hit easy. Trade remain go a. Ready indeed tax mean.",
+        "bio": "Wife pretty again without than much form. There their nature. Land leg population author television yard question bill.\nDebate beat way over. Pass moment Democrat statement case into a hit."
+    },
+    "currency": [
+        "TVD",
+        "Tuvaluan dollar"
+    ]
+}
