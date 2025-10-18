@@ -1,0 +1,25 @@
+{
+    "name": "Sara Castaneda",
+    "age": 61,
+    "address": {
+        "street": "Kathryn Village",
+        "city": "West Jennifer",
+        "state": "Alabama",
+        "zip": "60712"
+    },
+    "contact": {
+        "phone": "949.732.3579",
+        "servicePhone": "800752208"
+    },
+    "birthday": "1964-09-04",
+    "ip": "156.230.193.200",
+    "foo": "bar",
+    "profile": {
+        "about": "Democrat before suffer raise situation himself perform between. Effect perform not identify. Hard mother method book analysis within movie. Call team then and poor policy employee station.",
+        "bio": "Picture recent wife hope. Stay true professor past central product series. Myself anyone over investment another message."
+    },
+    "currency": [
+        "INR",
+        "Indian rupee"
+    ]
+}
