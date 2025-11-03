@@ -1,0 +1,25 @@
+{
+    "name": "Linda James",
+    "age": 92,
+    "address": {
+        "street": "Aaron Point",
+        "city": "Port Jasmine",
+        "state": "Arizona",
+        "zip": "53429"
+    },
+    "contact": {
+        "phone": "2705602300",
+        "servicePhone": "800169641"
+    },
+    "birthday": "1933-11-05",
+    "ip": "23.54.132.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Fact first store visit knowledge pick. Lead song door though.\nExpert manage amount occur scientist many his. Sea stage certainly explain. General watch stand mission.",
+        "bio": "Career part customer lead a difficult camera. Box show industry sign clear state. Institution author marriage."
+    },
+    "currency": [
+        "PYG",
+        "Paraguayan guarani"
+    ]
+}
